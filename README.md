@@ -19,3 +19,6 @@ Get the **10x12x440mm** carbon tube (12mm OD), 4 pieces. Dry-fit the center plat
 ## Files
 - `*.scad` — source, editable in the free OpenSCAD app if any of your actual parts differ slightly (open the file, change the variable at the top, e.g. `stack_span`, and re-render)
 - `*.stl` — ready to slice and print as-is
+
+## DYS F7 F772 Wire orientation
+<img width="1228" height="1582" alt="Screenshot 2026-08-21 at 11 17 44 PM" src="https://github.com/user-attachments/assets/34a8f844-44d5-439d-bc37-c62860963cc4" />
