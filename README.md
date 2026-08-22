@@ -3,7 +3,7 @@
 Three parts, sized to the exact components from the shopping list:
 
 - **center_plate** — mounts the SpeedyBee F405 V4 stack (30.5mm hole pattern) and cradles the inboard end of each carbon tube arm.
-- **motor_mount** — print 4 of these. Clamps to the outboard end of each tube and has the 19x19mm M3 bolt pattern for the iFlight 2812 motor, plus a center hole for the motor wires.
+- **motor_mount** — print 4 of these. Clamps to the outboard end of each tube and has the 19x19mm M3 bolt pattern for the iFlight 3112 motor, plus a center hole for the motor wires.
 - **payload_deck** — carries the Raspberry Pi (standard 58x49mm hole pattern) on standoffs run down through the same 30.5mm pattern as the center plate, so one style of M3 standoff works the whole stack.
 
 ## Print settings
@@ -22,3 +22,6 @@ Get the **10x12x440mm** carbon tube (12mm OD), 4 pieces. Dry-fit the center plat
 
 ## DYS F7 F772 Wire orientation
 <img width="1228" height="1582" alt="Screenshot 2026-08-21 at 11 17 44 PM" src="https://github.com/user-attachments/assets/34a8f844-44d5-439d-bc37-c62860963cc4" />
+
+## AM32 ESC Wire orientation
+<img width="400" height="413" alt="Screenshot 2026-08-21 at 11 25 01 PM" src="https://github.com/user-attachments/assets/175d331c-b00d-4c4e-92f4-2032a52555f5" />
