@@ -14,7 +14,7 @@ Three parts, sized to the exact components from the shopping list:
 - Consider M3 heat-set inserts for the stack and motor bolt holes if you'll be removing those screws often — not needed for the small zip-tie holes
 
 ## Tube arms
-Get the **10x12x330mm** carbon tube (12mm OD), 4 pieces. Dry-fit the center plate and all 4 motor mounts on the tubes first, slide the motor mounts in/out until the motor-to-motor diagonal spacing is around 580-620mm, then mark, add a dab of thick CA glue or epoxy in each cradle groove, and zip-tie both ends of every tube through the small holes flanking the groove. Let the glue cure before your first flight. 330mm leaves about 70mm of slack per tube for this tuning step — no need for the longer 420mm version.
+Get the **10x12x440mm** carbon tube (12mm OD), 4 pieces. Dry-fit the center plate and all 4 motor mounts on the tubes first, slide the motor mounts in/out until the motor-to-motor diagonal spacing is around 580-620mm, then mark, add a dab of thick CA glue or epoxy in each cradle groove, and zip-tie both ends of every tube through the small holes flanking the groove. Let the glue cure before your first flight. 330mm leaves about 70mm of slack per tube for this tuning step — no need for the longer 420mm version.
 
 ## Files
 - `*.scad` — source, editable in the free OpenSCAD app if any of your actual parts differ slightly (open the file, change the variable at the top, e.g. `stack_span`, and re-render)
